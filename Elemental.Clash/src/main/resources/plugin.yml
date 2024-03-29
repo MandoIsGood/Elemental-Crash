@@ -1,0 +1,4 @@
+name: Elemental.Clash
+version: '${project.version}'
+main: me.mandoisgood.elemental.Elemental
+api-version: '1.20'

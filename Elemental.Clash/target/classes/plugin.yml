@@ -1,0 +1,4 @@
+name: Elemental.Clash
+version: '1.0-SNAPSHOT'
+main: me.mandoisgood.elemental.Elemental
+api-version: '1.20'
